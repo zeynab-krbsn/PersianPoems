@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_bookmark"
+        android:title="دخیره شده"
+        android:checkable="true"
+        />
+    <item
+        android:icon="@drawable/ic_favorite"
+        android:title="محبوبترین"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/item_home"
+        android:icon="@drawable/ic_home"
+        android:title="جدیدترین"
+        android:checkable="true"
+
+        />
+    <item
+        android:icon="@drawable/ic_person"
+        android:title="شاعران"
+        android:checkable="true"
+
+        />
+    <item
+        android:icon="@drawable/ic_view_headline"
+        android:title="موضوعات"
+        android:checkable="true"
+        />
+</menu>
